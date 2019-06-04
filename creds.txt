@@ -1,1 +1,0 @@
-testing git-crypt. oops, i'm an engineer who's pushed credentials to a public repository.
