@@ -2,3 +2,4 @@
 *.key filter=git-crypt diff=git-crypt
 *.php filter=git-crypt diff=git-crypt
 testdir/* filter=git-crypt diff=git-crypt
+keys/* filter=git-crypt diff=git-crypt
